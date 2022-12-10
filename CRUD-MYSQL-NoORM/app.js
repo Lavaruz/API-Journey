@@ -1,20 +1,11 @@
-var express = require("express");
+const express = require('express');
+const app = express();
 
-const mysql = require("mysql2");
-const connection = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    database: "noorm",
-});
+// ROUTE
+const index = require('./src/routes/index');
 
-connection.query("SELECT * FROM mahasiswa", (err, result) => {
-    if (err) {
-        console.log(err);
-    } else {
-        console.log(result);
-    }
-});
+app.use(express.json());
 
-var app = express();
+app.use('/', index);
 
 module.exports = app;
