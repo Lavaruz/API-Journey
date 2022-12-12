@@ -1,8 +1,8 @@
-const router = require('express').Router();
-const connection = require('../config/connect');
-const Mahasiswa = require('../controller/mahasiswaController');
+const path = require('path');
+const indexRouter = require('express').Router();
 
-/* GET home page. */
-router.get('/', Mahasiswa.getAllMahasiswa);
+indexRouter.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, '..', '..', 'public', 'index.html'));
+});
 
-module.exports = router;
+module.exports = indexRouter;

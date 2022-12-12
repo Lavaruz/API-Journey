@@ -1,19 +1,24 @@
 const connection = require('../config/connect');
 
-function getAllMahasiswa(req, res) {
-    connection.execute('SELECT * FROM mahasiswa', (err, result) => {
-        res.send(result);
+async function getAllMahasiswa(req, res) {
+    await connection.execute('SELECT * FROM mahasiswa', (err, result) => {
+        res.json(result);
     });
 }
-function getMahasiswaById(req, res) {
-    connection.execute(
-        'SELECT * FROM mahasiswa WHERE {} = {}',
+async function insertMahasiswa(req, res) {
+    await connection.execute(
+        'INSERT INTO mahasiswa (nama, nilai) VALUES (?,?)',
+        [req.body.nama, req.body.nilai],
         (err, result) => {
-            res.send(result);
+            res.json({
+                status: 'new mahasiswa added',
+                insertId: result.insertId,
+            });
         }
     );
 }
 
 module.exports = {
     getAllMahasiswa,
+    insertMahasiswa,
 };
