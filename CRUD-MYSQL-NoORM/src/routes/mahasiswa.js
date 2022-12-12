@@ -6,4 +6,7 @@ const Mahasiswa = require('../controller/mahasiswaController');
 router.get('/', Mahasiswa.getAllMahasiswa);
 router.post('/', Mahasiswa.insertMahasiswa);
 
+router.get('/:nama', Mahasiswa.getMahasiswaByName);
+router.post('/:nama', Mahasiswa.updateMahasiswaByName);
+
 module.exports = router;

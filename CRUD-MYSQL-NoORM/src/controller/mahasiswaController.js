@@ -5,6 +5,7 @@ async function getAllMahasiswa(req, res) {
         res.json(result);
     });
 }
+
 async function insertMahasiswa(req, res) {
     await connection.execute(
         'INSERT INTO mahasiswa (nama, nilai) VALUES (?,?)',
@@ -18,7 +19,29 @@ async function insertMahasiswa(req, res) {
     );
 }
 
+function getMahasiswaByName(req, res) {
+    connection.execute(
+        'SELECT * from mahasiswa WHERE nama = ?',
+        [req.params.nama],
+        (err, result) => {
+            res.json(result);
+        }
+    );
+}
+
+function updateMahasiswaByName(req, res) {
+    connection.execute(
+        'UPDATE mahasiswa SET nilai = ? WHERE nama = ?',
+        [req.body.nilai, req.params.nama],
+        (err, result) => {
+            res.json(result);
+        }
+    );
+}
+
 module.exports = {
     getAllMahasiswa,
     insertMahasiswa,
+    getMahasiswaByName,
+    updateMahasiswaByName,
 };
