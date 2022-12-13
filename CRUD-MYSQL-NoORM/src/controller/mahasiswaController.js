@@ -1,9 +1,20 @@
 const connection = require('../config/connect');
 
 async function getAllMahasiswa(req, res) {
-    await connection.execute('SELECT * FROM mahasiswa', (err, result) => {
-        res.json(result);
-    });
+    let limit = req.query.limit || 20;
+
+    await connection.execute(
+        `SELECT * FROM mahasiswa LIMIT ${limit}`,
+        (err, rows) => {
+            let result = {};
+            Object.assign(result, {
+                mahasiswa: rows,
+                total: rows.length,
+                limit: limit,
+            });
+            res.send(result);
+        }
+    );
 }
 
 async function insertMahasiswa(req, res) {
@@ -39,9 +50,24 @@ function updateMahasiswaByName(req, res) {
     );
 }
 
+function deleteMahasiswaByName(req, res) {
+    connection.execute(
+        'DELETE FROM mahasiswa WHERE nama = ?',
+        [req.params.nama],
+        (err, result) => {
+            if (err) {
+                res.send(err);
+            } else {
+                res.send(result);
+            }
+        }
+    );
+}
+
 module.exports = {
     getAllMahasiswa,
     insertMahasiswa,
     getMahasiswaByName,
     updateMahasiswaByName,
+    deleteMahasiswaByName,
 };

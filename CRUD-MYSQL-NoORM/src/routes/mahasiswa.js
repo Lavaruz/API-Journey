@@ -7,6 +7,7 @@ router.get('/', Mahasiswa.getAllMahasiswa);
 router.post('/', Mahasiswa.insertMahasiswa);
 
 router.get('/:nama', Mahasiswa.getMahasiswaByName);
-router.post('/:nama', Mahasiswa.updateMahasiswaByName);
+router.put('/:nama', Mahasiswa.updateMahasiswaByName);
+router.delete('/:nama', Mahasiswa.deleteMahasiswaByName);
 
 module.exports = router;

@@ -24,7 +24,18 @@ function showTable(req, res) {
     });
 }
 
+function dropTableByName(req, res) {
+    connection.execute(`DROP TABLE ${req.params.nama}`, (err, result) => {
+        if (err) {
+            res.send(err);
+        } else {
+            res.send(result);
+        }
+    });
+}
+
 module.exports = {
     createTable,
     showTable,
+    dropTableByName,
 };
