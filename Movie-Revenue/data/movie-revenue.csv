@@ -1,0 +1,1001 @@
+id,name,genre,revenue
+1,Moonraker,Action|Adventure|Sci-Fi|Thriller,$14817590.76
+2,Murder by Death,Comedy|Crime|Mystery|Thriller,$6828076.92
+3,Blood Moon,Drama|Horror,$38065876.44
+4,Detective Story,Crime|Drama|Film-Noir,$49335652.60
+5,"Black Watch, The",Adventure|Drama,$3776628.23
+6,Craig's Wife,Drama,$11659480.12
+7,Training Day,Crime|Drama|Thriller,$26414611.45
+8,National Lampoon's Lady Killers (National Lampoon's Gold Diggers),Comedy,$6669204.15
+9,"Limey, The",Crime|Drama|Thriller,$44494282.62
+10,Savages,Crime|Drama|Thriller,$25999823.57
+11,"Wrong Guys, The",Comedy,$2815821.71
+12,"36th Chamber of Shaolin, The (Shao Lin san shi liu fang) (Master Killer)",Action|Adventure,$35772915.77
+13,"Sarah, Plain and Tall",Children|Drama,$20546814.60
+14,"Mackintosh Man, The",Action|Drama|Thriller,$25575202.68
+15,Dead Alive (Braindead),Comedy|Fantasy|Horror,$26391282.30
+16,Ed Hardy: Tattoo the World ,Documentary,$43118894.24
+17,"Devil Wears Prada, The",Comedy|Drama,$28147079.67
+18,Love Walked In,Drama|Thriller,$26090193.38
+19,"Gore Gore Girls, The",Comedy|Horror|Mystery,$26076897.40
+20,Carla's Song,Drama|Romance|War,$39173636.43
+21,Terror in a Texas Town,Western,$23190510.36
+22,Wrong Rosary (Uzak ihtimal),Drama,$24067703.92
+23,Alien: Resurrection,Action|Horror|Sci-Fi,$24390793.77
+24,Pirates of the Caribbean: The Curse of the Black Pearl,Action|Adventure|Comedy|Fantasy,$18799201.97
+25,All Tomorrow's Parties,Documentary|Musical,$19941288.65
+26,Finding Bliss,Comedy|Romance,$1502753.32
+27,Merlin,Action|Adventure|Drama|Fantasy|Romance,$43997538.55
+28,Meet the Fockers,Comedy,$44485064.07
+29,Baby Geniuses,Comedy,$13978760.41
+30,Baadasssss! (How to Get the Man's Foot Outta Your Ass),Drama,$26961508.64
+31,Balkan Spy (Balkanski spijun),Comedy|Drama,$47042651.60
+32,King of the Hill,Drama,$38258837.23
+33,Robin Hood: Prince of Thieves,Adventure|Drama,$16500872.51
+34,Second Wind (Le deuxième souffle) (Second Breath),Crime|Drama|Film-Noir,$4878553.36
+35,Swimfan,Thriller,$41808202.09
+36,For Pete's Sake,Comedy,$18902297.70
+37,Whiteboyz,Comedy|Drama,$39576056.50
+38,In Love and War,Romance|War,$35407419.41
+39,Fresh Guacamole,Animation,$10119733.36
+40,"Fall of the House of Usher, The (Zánik domu Usheru)",Animation,$33353941.99
+41,Blood on the Sun,Drama|War,$47677594.88
+42,Joyride,Drama,$41797686.17
+43,The Last Word,Drama|Romance,$49480036.17
+44,Warsaw Bridge (Pont de Varsòvia),(no genres listed),$19021365.64
+45,Bandaged,Thriller,$45848072.21
+46,40 Pounds of Trouble,Comedy,$30746662.32
+47,Battle of the Warriors,Action|Drama|War,$20508212.65
+48,Olympia Part One: Festival of the Nations (Olympia 1. Teil - Fest der Völker),Documentary,$11092708.17
+49,"Commune, La (Paris, 1871)",Drama|War,$5416582.19
+50,Up Periscope,Action|Drama|War,$15102727.61
+51,The Arrival of Joachim Stiller,Drama|Fantasy,$3972760.00
+52,Valentine's Day,Comedy|Romance,$35479844.16
+53,Le créateur ,Comedy,$44916583.27
+54,Daughters of the Dust,Drama,$39016232.13
+55,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",Drama|Musical|Romance,$19792644.81
+56,Hara-Kiri: Death of a Samurai,Drama,$3057257.31
+57,Ironweed,Drama,$40585181.46
+58,Boys Don't Cry,Drama,$44400939.02
+59,"Trials of Oscar Wilde, The",Drama,$20828238.75
+60,Everybody's Fine (Stanno tutti bene),Comedy|Drama,$27182904.02
+61,Shoppen ,Comedy|Romance,$27941764.51
+62,Bend of the River,Western,$46055451.07
+63,Angel Eyes,Romance|Thriller,$3729247.12
+64,12 Angry Men,Crime|Drama,$2058883.82
+65,"Beast with a Million Eyes, The",Sci-Fi,$14393949.88
+66,"Man Who Cried, The",Drama,$16855566.61
+67,Farewell (L'affaire Farewell),Thriller,$39819029.02
+68,"Tarnished Angels, The",Drama,$876885.48
+69,Trilogy of Terror,Horror|Thriller,$15969325.96
+70,Tracks,Adventure|Drama,$19388282.05
+71,Rock-A-Doodle,Adventure|Animation|Children|Musical,$13730491.45
+72,Jailbait,Crime|Drama|Thriller,$3533851.32
+73,Savannah,Drama|Romance,$9874186.53
+74,Deepstar Six,Horror|Sci-Fi|Thriller,$22041677.28
+75,Just 4 Kicks,Children,$26265095.49
+76,On His Own (a.k.a. My Apprenticeship) (V lyudyakh),Drama,$24562593.39
+77,Judy Berlin,Drama,$23912140.31
+78,"Woman Rebels, A (Portrait of a Rebel)",Drama|Romance,$40807534.43
+79,"Wrong Box, The",Comedy,$33038590.45
+80,Yolanda and the Thief,Fantasy|Musical|Romance,$35180535.12
+81,Mixed Blood,Action|Drama,$14429354.21
+82,"Island, The",Adventure|Horror|Thriller,$37451892.25
+83,Post Grad,Comedy,$48001889.35
+84,"Rebound, The",Comedy|Romance,$601997.63
+85,Captain America: The First Avenger,Action|Adventure|Sci-Fi|Thriller|War,$34219961.44
+86,"Missing Picture, The (L'image manquante)",Documentary,$19336455.37
+87,"Wild Angels, The",Action|Drama,$13693410.65
+88,"Jacob the Liar (Jakob, der Lügner)",Drama,$32706314.22
+89,Sabrina,Comedy|Romance,$1357160.21
+90,"Drowning Pool, The",Mystery|Thriller,$10763608.27
+91,"Hawk Is Dying, The",Drama,$20367622.53
+92,Wolfen,Horror,$633590.30
+93,Jubal,Western,$42849550.27
+94,Taking Sides,Drama,$27831581.49
+95,Falling Up,Comedy|Drama|Romance,$36846159.79
+96,Feast of All Saints,Drama|Romance,$46401584.80
+97,Luna Papa,Comedy|Drama|Fantasy,$11101611.89
+98,Don Jon,Comedy|Drama|Romance,$35003794.34
+99,Bloody Bloody Bible Camp,Comedy|Horror,$10862117.91
+100,"Hunter, The",Thriller,$39304639.48
+101,Richard Pryor: Live in Concert,Comedy|Documentary,$16615426.91
+102,Digimon: The Movie,Adventure|Animation|Children,$31274485.29
+103,Among Giants,Comedy|Drama|Romance,$5377940.33
+104,"Lady with the Dog, The (Dama s sobachkoy)",Drama|Romance,$41559919.33
+105,McConkey,Adventure|Documentary,$5042803.08
+106,White God (Fehér isten),Drama,$12690712.13
+107,Audrey Rose,Horror,$3756802.50
+108,The Tenant of Wildfell Hall,Drama,$42844912.83
+109,Ed's Next Move,Comedy|Romance,$10694335.88
+110,Chungking Express (Chung Hing sam lam),Drama|Mystery|Romance,$11526564.15
+111,Miss You Can Do It,Documentary,$4654968.07
+112,Mission: Impossible,Action|Adventure|Mystery|Thriller,$34700875.67
+113,MacGyver: Trail to Doomsday,Action|Adventure,$24838994.12
+114,"Gas, Inspector Palmu! (Kaasua, komisario Palmu!)",Comedy|Crime|Mystery|Thriller,$29457451.69
+115,Aladdin,Adventure|Animation|Children|Comedy|Fantasy,$848265.15
+116,Made in Britain,Crime|Drama,$49690721.11
+117,Impulse,Mystery|Thriller,$1972867.43
+118,Pardes,Action|Comedy|Musical|Romance,$24555866.75
+119,"Strayed (égarés, Les)",Drama|Romance,$41198281.54
+120,Eat,Drama,$30781078.05
+121,Fist of Legend (Jing wu ying xiong),Action|Drama,$27150209.32
+122,"Clockmaker of St. Paul, The (L'horloger de Saint-Paul)",Crime|Drama,$10801505.61
+123,Broken Kingdom,Drama,$13626537.25
+124,Wish Me Away,Documentary,$22663986.16
+125,Story of G.I. Joe,War,$27394924.66
+126,Milk and Honey,Drama,$29740966.98
+127,Richard III,Drama|War,$47365696.08
+128,Proof,Comedy|Drama|Romance,$31742381.43
+129,Hometown Legend,Drama,$13366370.39
+130,In the Cut,Crime|Drama|Mystery|Romance|Thriller,$16377950.96
+131,Brainscan,Comedy|Horror|Sci-Fi|Thriller,$25522874.64
+132,Al-risâlah,Adventure|Drama|War,$27380588.53
+133,"Congress, The",Animation|Sci-Fi,$34571071.49
+134,Chronos,Documentary|IMAX,$18612257.40
+135,Magnificent Obsession,Drama|Romance,$8112833.40
+136,"Ring Two, The",Drama|Horror|Mystery|Thriller,$36057219.65
+137,Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté),Adventure|Comedy,$11827355.22
+138,Saw II,Horror|Thriller,$13981416.81
+139,Schwarze Sonne,Documentary,$31455746.53
+140,1987,Comedy|Drama|Romance,$47368438.86
+141,"My Father the Hero (Mon père, ce héros.)",Comedy|Drama,$37659752.27
+142,"Peck on the Cheek, A (Kannathil Muthamittal)",Drama|War,$33242733.39
+143,Nobody Knows Anything!,Comedy,$23037801.98
+144,JCVD,Action|Drama|Thriller,$32467267.59
+145,"Legend of Sleepy Hollow, The",Comedy|Fantasy|Horror,$4893837.46
+146,Only Old Men Are Going to Battle (V boy idut odni stariki),Comedy|Drama|War,$5406553.97
+147,The Linguists,Documentary,$46426798.28
+148,Die Hard: With a Vengeance,Action|Crime|Thriller,$31661083.40
+149,Inside Man,Crime|Drama|Thriller,$7290103.67
+150,"World of Suzie Wong, The",Drama|Romance,$48472198.87
+151,The Magnificent Gladiator,Action|Adventure|Drama,$9181856.08
+152,Elevator ,Thriller,$9404896.10
+153,Darktown Strutters (Get Down and Boogie),Action|Comedy|Musical,$16606211.82
+154,Scandal Sheet,Crime|Drama|Film-Noir|Romance|Thriller,$46459644.93
+155,Love with the Proper Stranger,Comedy|Drama|Romance,$49844332.18
+156,Stage Fright,Horror|Musical,$16817253.37
+157,Mickey's The Prince and the Pauper,Animation|Children,$6943997.08
+158,Feast of July,Drama,$18933868.56
+159,Short Time,Comedy,$42429843.83
+160,Baby Mama,Comedy,$1505994.70
+161,Copper Mountain,Comedy|Musical,$13095696.33
+162,15 Minutes,Thriller,$33305860.42
+163,"New Guy, The",Comedy,$20648567.23
+164,Spies (Spione),Thriller,$148189.13
+165,Painted Fire (Chihwaseon),Drama,$31728121.50
+166,French Fried Vacation 3 (Les bronzés 3: amis pour la vie),Comedy,$17628261.73
+167,"Outfit, The",Crime|Drama|Thriller,$49595895.38
+168,Nicht alle waren Mörder,Drama|War,$7635071.28
+169,1939: Hollywood's Greatest Year,Documentary,$35520462.56
+170,On the Outs,Drama,$48236557.01
+171,Aquamarine,Children|Comedy|Fantasy,$18922581.72
+172,"Story of Temple Drake, The",Drama,$36861108.10
+173,Two in the Wave,Documentary,$6963590.50
+174,"Divorce, Le",Comedy|Drama|Romance,$36280006.96
+175,Alien Abduction,Horror|Mystery|Sci-Fi,$47296032.60
+176,The Facts of Murder,Crime|Drama,$46892402.66
+177,Mr. Troop Mom,Children|Comedy,$20037844.62
+178,A Merry Friggin' Christmas,Comedy,$41032416.17
+179,Idle Mist (Vana Espuma),Crime|Horror|Mystery|Sci-Fi,$32626590.63
+180,Akira,Action|Adventure|Animation|Sci-Fi,$29423315.08
+181,"Oh, God! Book II",Comedy,$24744812.62
+182,"Bride of Frankenstein, The (Bride of Frankenstein)",Drama|Horror|Sci-Fi,$31729974.11
+183,Major Movie Star,Adventure|Comedy|Drama|War,$45228785.96
+184,"Battle of Britain, The (Why We Fight, 4)",Documentary|War,$8278024.75
+185,Relentless,Thriller,$42099378.65
+186,Hell's Angels,Drama|War,$11373159.33
+187,Operación Cannabis,Action|Adventure|Comedy|Crime,$35582436.81
+188,"Education of Mohammad Hussein, The",Documentary,$18310657.74
+189,Dear God,Comedy,$37642366.38
+190,Cats Don't Dance,Animation|Children|Musical,$23308642.32
+191,Fat Albert,Comedy|Fantasy,$4555450.97
+192,Maidentrip,Documentary,$10077765.68
+193,I'll See You in My Dreams,Comedy|Drama,$7816262.48
+194,Motivational Growth,Comedy|Horror,$16372596.69
+195,Where East Is East,Drama,$2110433.47
+196,Elena and Her Men (Paris Does Strange Things) (Elena et les hommes),Comedy|Drama|Romance,$1466957.12
+197,Bay of Blood (a.k.a. Twitch of the Death Nerve) (Reazione a catena),Horror,$36209471.89
+198,Some Kind of Wonderful,Drama|Romance,$8047087.46
+199,Killjoy 2: Deliverance from Evil,Horror,$15635144.13
+200,"Dinner, The (Cena, La)",Comedy|Drama,$49642193.70
+201,Dune,Adventure|Sci-Fi,$38185505.69
+202,"Soldier's Story, A",Drama,$7912946.28
+203,Varasto,Comedy|Drama,$39614329.58
+204,"Rise and Fall of Legs Diamond, The",Crime,$8158282.32
+205,Cut and Run (Inferno in diretta),Adventure|Horror|Thriller,$5099213.82
+206,Ski Patrol,Action|War,$43717237.16
+207,"Safety of Objects, The",Drama,$28735857.63
+208,"Immigrant, The",Comedy,$21220349.10
+209,Five Minutes to Live,Crime|Drama|Thriller,$5678099.87
+210,Some Came Running,Drama|Romance,$46652681.20
+211,Cleopatra,Drama|Romance,$6413886.53
+212,"King of Masks, The (Bian Lian)",Drama,$23559251.23
+213,Super Bitch,Action,$44033817.20
+214,"Bulli: Cooking in Progress, El",Documentary,$26249703.12
+215,Here on Earth,Drama|Romance,$33917190.17
+216,"Curse of the Cat People, The",Drama,$17937039.47
+217,Babysitting,Comedy,$49761288.94
+218,"Royal Scandal, The",Crime|Mystery,$30708269.00
+219,Fermat's Room (La habitación de Fermat),Mystery|Thriller,$9474874.82
+220,Natural City,Action|Romance|Sci-Fi,$46338796.43
+221,Trainer on the Beach 2,Comedy,$22749275.46
+222,"Good Student, The (Mr. Gibb)",Comedy,$47498002.57
+223,Few of Us,Drama,$32625329.65
+224,Fados,Documentary|Musical,$44070939.38
+225,Dear Zachary: A Letter to a Son About His Father,Documentary,$35103015.49
+226,The African,Adventure|Comedy,$34559727.74
+227,Kids in the Hall: Brain Candy,Comedy,$6677405.03
+228,Very Annie Mary,Comedy|Musical,$18929757.29
+229,O Lucky Man!,Comedy|Drama|Fantasy|Musical,$39096852.85
+230,"Reaping, The",Horror|Thriller,$26467927.22
+231,Sherman's March,Documentary,$23479801.00
+232,Eden,Drama,$5963637.16
+233,Zero Tolerance (Noll tolerans),Action|Crime|Thriller,$1976314.60
+234,Big Ass Spider!,Comedy|Sci-Fi,$12004663.04
+235,"Public Enemy, The",Action|Crime|Drama,$7210649.79
+236,Klute,Drama|Mystery,$49928339.30
+237,No Highway in the Sky,Drama|Thriller,$9608262.03
+238,It's Alive III: Island of the Alive,Comedy|Drama|Horror|Sci-Fi,$48901529.50
+239,Lilla Jönssonligan och Cornflakeskuppen,Children|Comedy,$13318284.52
+240,"Lost Skeleton of Cadavra, The",Comedy|Horror|Sci-Fi,$43038076.85
+241,Do You Like Hitchcock? (Ti piace Hitchcock?),Horror|Mystery|Thriller,$3817548.56
+242,Weary River,Drama|Romance,$39174701.95
+243,"Suburbans, The",Drama,$41498355.11
+244,Micmacs (Micmacs à tire-larigot),Comedy|Crime,$18566989.94
+245,God Said 'Ha!',Comedy,$22685812.85
+246,"Fûke, De",Drama|War,$31641010.09
+247,James Gandolfini: Tribute to a Friend,Documentary,$22312585.09
+248,Nazty Nuisance,Action|Adventure|Comedy,$5007894.97
+249,Chaplin,Drama,$10545207.25
+250,Claire of the Moon,Drama|Romance,$13609764.38
+251,Games of Love and Chance (L'esquive),Drama|Romance,$12149925.83
+252,Hoffa,Crime|Drama,$33031434.20
+253,Superdad,Comedy,$29622355.25
+254,"Public Eye, The",Crime|Thriller,$5844920.74
+255,"Other Dream Team, The",Documentary,$24868253.77
+256,Brown Sugar,Romance,$46100857.14
+257,Hello Again,Comedy,$21759394.50
+258,Harum Scarum,Comedy|Musical,$18160302.68
+259,Chicks with Sticks,Comedy|Drama,$32368024.35
+260,One Bright Shining Moment,Documentary,$37490501.93
+261,Presto,Animation|Children|Comedy|Fantasy,$41081965.40
+262,Robinson Crusoe (Daniel Defoe's Robinson Crusoe),Adventure|Drama,$49144314.56
+263,Bizarre,(no genres listed),$36065880.83
+264,A Cinderella Story: Once Upon a Song,Children|Comedy|Romance,$3326802.55
+265,Trinity: Gambling for High Stakes (Odds and Evens) (Pari e dispari),Comedy|Crime,$7406105.67
+266,Mercy,Crime|Mystery|Thriller,$29983913.39
+267,Dark Horse,Drama,$6475439.08
+268,Film Geek,Comedy,$12855517.05
+269,Darby O'Gill and the Little People,Adventure|Children|Fantasy,$41436864.64
+270,Goya's Ghosts,Drama,$41848810.83
+271,Boys,Drama,$49756999.28
+272,The Fox and the Hare,Animation|Children,$37411481.16
+273,"Lady in Red, The",Action,$25905578.55
+274,Silent Fall,Drama|Thriller,$14244148.45
+275,King's Faith,Drama,$19907726.92
+276,"Jew in the Lotus, The",Documentary,$43223162.19
+277,"Song Is Born, A",Comedy|Musical,$28639145.77
+278,Björk at the Royal Opera House,(no genres listed),$24918107.79
+279,By the Gun,Crime|Drama|Thriller,$39109117.19
+280,"Murderous Maids (Blessures assassines, Les)",Drama,$29402810.47
+281,House of Dark Shadows,Drama|Horror|Romance,$13109941.37
+282,James and the Giant Peach,Adventure|Animation|Children|Fantasy|Musical,$15048827.76
+283,Memorial Day,Action|Drama|War,$46658109.65
+284,Damien: Omen II,Horror,$41022082.08
+285,Bikini Beach,Comedy,$31443791.95
+286,"Bon Voyage, Charlie Brown (and Don't Come Back!)",Animation|Children|Comedy,$42329469.52
+287,Zodiac,Crime|Drama|Thriller,$20515631.01
+288,"Lady Vanishes, The",Action|Comedy|Mystery|Romance,$20487892.13
+289,Elmer Gantry,Drama,$3245294.19
+290,House of Cards,Drama,$11349544.36
+291,Lumiere and Company (Lumière et compagnie),Documentary,$47791505.66
+292,Back to the Beach,Comedy,$41512066.04
+293,At Play in the Fields of the Lord,Drama,$23272399.94
+294,Ghostbusters (a.k.a. Ghost Busters),Action|Comedy|Sci-Fi,$705951.75
+295,Orca: The Killer Whale,Action|Drama|Horror|Thriller,$43335840.43
+296,"Hugh Hefner: Playboy, Activist and Rebel",Documentary,$26898931.34
+297,Ultrasuede: In Search of Halston,Documentary,$37866030.68
+298,Murder on Monday,Crime|Drama|Mystery,$18785375.20
+299,"Deadly Trap, The (La maison sous les arbres)",Drama|Mystery,$27447027.43
+300,Thrilla in Manila,Documentary,$15777836.54
+301,Playing God,Crime|Drama|Thriller,$46284050.60
+302,How the Grinch Stole Christmas!,Animation|Comedy|Fantasy|Musical,$45982534.03
+303,"Confessor, The (a.k.a. The Good Shepherd)",Drama|Thriller,$48779038.98
+304,Amreeka,Drama,$10966658.23
+305,Rage of Angels: The Story Continues,Drama,$8076224.06
+306,"Canyon, The",Thriller,$46506164.20
+307,D.C.H. (Dil Chahta Hai),Comedy|Drama,$32140907.39
+308,Mississippi Grind,Drama,$2420916.35
+309,"Fourth Angel, The",Action|Drama|Thriller,$8045569.36
+310,Passage to Marseille,Adventure|Drama|War,$10373189.69
+311,Pokémon 3: The Movie,Animation|Children,$3571868.63
+312,"Hunchback, The",Drama,$47139659.03
+313,James Dean,Drama,$2185355.22
+314,"Witching and Bitching (Brujas de Zugarramurdi, Las)",Comedy|Fantasy,$17238651.20
+315,You Can't Win 'Em All,Adventure|Comedy|War,$14778465.55
+316,"Dove, The",Drama|Romance,$6896988.10
+317,Stranger by the Lake (L'inconnu du lac),Drama|Romance,$17074648.46
+318,The Count of Monte Cristo,Adventure|Drama|Romance,$18482117.70
+319,Angry Video Game Nerd: The Movie,Adventure|Comedy|Sci-Fi,$34743855.20
+320,"Big Town, The",Drama|Romance|Thriller,$7943611.84
+321,All in a Night's Work,Comedy,$610958.75
+322,Contact High,Comedy,$43853692.95
+323,"Matriarch, The (Lieksa!)",Comedy|Drama|Romance,$24181671.66
+324,Our Vinyl Weighs a Ton: This Is Stones Throw Records,Documentary,$38355570.24
+325,History of Hell (Rosas Höllenfahrt),Documentary,$12112829.97
+326,Dirty Ho (Lan tou He),Action|Drama,$15330958.39
+327,Late Marriage (Hatuna Meuheret),Comedy|Drama|Romance,$28993756.56
+328,Trouble Every Day,Drama|Horror|Thriller,$34210973.27
+329,Gunless,Action|Comedy|Drama|Western,$46150964.24
+330,S.W.A.T.,Action|Thriller,$46452862.19
+331,Happy Birthday to a Beautiful Woman,Documentary,$22558144.07
+332,Hotel Terminus: The Life and Times of Klaus Barbie (Hôtel Terminus),Documentary,$19156730.98
+333,101 Dalmatians,Adventure|Children|Comedy,$142410.57
+334,"Streaks, The (Pregi)",Drama,$18755707.22
+335,"Mating Game, The",Comedy|Romance,$8070787.39
+336,Equinox,Adventure|Horror|Mystery,$38667401.86
+337,Austin Powers: International Man of Mystery,Action|Adventure|Comedy,$12746689.27
+338,"Blob, The",Horror|Sci-Fi,$6855662.30
+339,Falling (a.k.a. Fallen),Drama,$18610963.48
+340,Norm MacDonald: Me Doing Standup,Comedy,$13153604.15
+341,Lost Youth,(no genres listed),$19202850.07
+342,MVP: Most Valuable Primate,Comedy,$2708609.14
+343,"Road, The",Adventure|Drama|Thriller,$19371958.65
+344,As You Like It,Comedy|Drama|Romance,$12479275.47
+345,Detour ,Thriller,$44859846.60
+346,I Am Legend,Action|Horror|Sci-Fi|Thriller|IMAX,$4576439.43
+347,"Good Guys and the Bad Guys, The",Comedy|Western,$45592633.92
+348,Destruction Force,Crime,$31321441.97
+349,The Cop in Blue Jeans,Action|Crime|Drama,$35354799.60
+350,Deliverance,Adventure|Drama|Thriller,$14236318.29
+351,Vampires,Comedy|Fantasy|Horror,$10742196.83
+352,Dracula,Horror,$43842279.10
+353,Hybrid,Documentary,$30821663.18
+354,"Butcher's Wife, The",Comedy|Romance,$24641397.32
+355,"Bad News Bears in Breaking Training, The",Comedy,$23850465.71
+356,Bond Girls Are Forever,Documentary,$4602147.20
+357,"Inspectors, The",Crime|Mystery,$5101615.19
+358,12 Angry Men,Drama,$4997928.38
+359,Snake in the Eagle's Shadow (Se ying diu sau),Action|Comedy,$27484978.52
+360,Last Night,Drama|Romance,$3547390.14
+361,"Shootist, The",Drama|Western,$12375839.04
+362,Battle of the Warriors,Action|Drama|War,$29364140.00
+363,In the Park,Comedy,$6433607.49
+364,Frank,Comedy|Drama|Mystery,$31807319.84
+365,Swing Vote,Comedy|Drama,$42603663.91
+366,"Blue Light, The (Blaue Licht, Das)",Drama|Fantasy|Mystery,$20310254.05
+367,Authors Anonymous,Comedy|Drama|Romance,$13305529.02
+368,"Taming of the Shrew, The",Comedy,$20708108.52
+369,"Adonis Factor, The",Documentary,$6222136.71
+370,Macross Plus,Action|Drama|Sci-Fi|War,$36599035.37
+371,"Lodger: A Story of the London Fog, The",Crime|Drama|Thriller,$9986966.27
+372,"Die Is Cast, The (La suerte está echada)",Comedy,$9637846.42
+373,Sweet and Lowdown,Comedy|Drama,$10847342.08
+374,Zaza,Drama,$28534163.24
+375,Zorro,Action|Adventure|Comedy|Western,$26584573.28
+376,Without Warning (a.k.a. Alien Warning) (a.k.a. It Came Without Warning),Horror|Sci-Fi,$30539459.31
+377,American Loser (Trainwreck: My Life as an Idiot),Comedy|Drama,$16572487.59
+378,Carnage,Comedy|Drama,$28704170.96
+379,Blind Massage (Tui na),Drama,$19375628.51
+380,Assault of the Sasquatch (Sasquatch Assault),Action|Horror,$11358378.52
+381,Duel at Diablo,War,$42027112.51
+382,Poltergeist II: The Other Side,Horror|Thriller,$19654674.67
+383,Why Has Bodhi-Dharma Left for the East?: A Zen Fable (Dharmaga tongjoguro kan kkadalgun),Drama,$1814830.99
+384,Pumping Iron II: The Women,Documentary,$35281819.67
+385,"Dinner, The (Diner, Het)",Drama|Thriller,$37654349.25
+386,"Beauty and the Beast (Belle et la bête, La)",Fantasy|Romance,$30107579.86
+387,Of Snails and Men (Despre oameni si melci),Comedy,$46583184.01
+388,Blue Is the Warmest Color (La vie d'Adèle),Drama|Romance,$39805546.82
+389,Bulletproof Monk,Action|Adventure|Sci-Fi,$31933421.24
+390,Swedish Auto,Drama|Romance,$879340.63
+391,The Brass Legend,Action,$49672443.52
+392,[REC]³ 3 Génesis,Horror|Thriller,$13430375.99
+393,Igby Goes Down,Comedy|Drama,$41752169.03
+394,Three Outlaw Samurai (Sanbiki no samurai),Action|Drama,$20548684.30
+395,Isi & Disi: Amor a lo bestia,(no genres listed),$39357856.71
+396,54,Drama,$48445095.64
+397,Unknown,Drama|Mystery|Thriller,$22016367.58
+398,Mariage à Mendoza,Comedy|Drama,$33931803.71
+399,Forgotten Silver,Comedy|Documentary,$23132056.69
+400,Cremaster 2,Drama,$6625250.26
+401,My Flesh and Blood,Documentary,$7379294.58
+402,Who'll Stop the Rain,Crime|Drama,$2025625.57
+403,Huckleberry Finn,Adventure|Musical,$1745992.98
+404,Zardoz,Fantasy|Sci-Fi,$44685984.45
+405,Box of Moon Light,Comedy|Drama,$20237913.91
+406,Garbo the Spy (Garbo: El espía),Documentary|War,$48127695.59
+407,Don Juan,Adventure|Drama|Romance,$19583997.52
+408,Lush Life,Drama|Musical,$197055.27
+409,"Married Woman, A (Une femme mariée)",Drama,$5893487.59
+410,"Greatest Love, The (Europa '51)",Drama,$10288484.19
+411,Twister,Comedy,$42469420.23
+412,End of the Line,Horror|Thriller,$9915160.97
+413,Powers of Ten,Documentary,$48752813.83
+414,Ghoulies IV,Comedy|Horror,$30593823.30
+415,Godzilla vs. Megaguirus (Gojira tai Megagirasu: Jî shômetsu sakusen),Action|Sci-Fi,$28388559.81
+416,It's a Small World,Comedy,$42500048.03
+417,Real Women Have Curves,Comedy|Drama,$8673847.73
+418,Public Housing,Documentary,$44782575.41
+419,Blank Check,Children|Comedy,$38555806.13
+420,Star Trek: First Contact,Action|Adventure|Sci-Fi|Thriller,$27467956.00
+421,How to Beat the High Cost of Living,Comedy,$6905690.24
+422,Mom's Night Out,Comedy,$23730788.79
+423,Ned Kelly,Drama,$6121719.35
+424,"Curious Case of Benjamin Button, The",Drama|Fantasy|Mystery|Romance,$13668672.07
+425,Clash of the Titans,Action|Adventure|Fantasy|Romance,$24429855.31
+426,City of Pirates (La ville des pirates) ,Drama|Fantasy,$1635010.77
+427,White Shadows in the South Seas,Drama|Romance,$9538328.89
+428,"Revenant, The",Comedy|Horror,$17356498.25
+429,Unfaithfully Yours,Comedy|Romance,$2929859.49
+430,Workingman's Death,Documentary,$17908354.16
+431,Baby Geniuses,Comedy,$34502999.54
+432,Conan the Destroyer,Action|Adventure|Fantasy,$18211681.08
+433,Morvern Callar,Drama,$49918941.55
+434,Blood Trails ,Horror|Thriller,$24330422.25
+435,Common,Crime|Drama,$10445425.74
+436,My Joy (Schastye moe),Drama,$19956921.93
+437,Never Say... Never! (Il ne faut jurer... de rien!),Comedy,$40014402.39
+438,Alice's Restaurant,Comedy|Drama,$13913937.95
+439,"Towering Inferno, The",Action|Adventure|Drama|Thriller,$43751611.77
+440,Thrive,Documentary,$42354661.73
+441,It! The Terror from Beyond Space,Horror|Sci-Fi|Thriller,$26335762.33
+442,Brother Rat,Comedy,$22390871.49
+443,Devils on the Doorstep (Guizi lai le),Drama|War,$36603492.46
+444,ATM,Horror|Thriller,$11239033.12
+445,Evita,Drama|Musical,$11957336.28
+446,After Five in the Jungle (Nach Fünf im Urwald),Comedy|Romance,$48083586.46
+447,Suzanne's Career (La carrière de Suzanne),Romance,$8633291.68
+448,Billy's Hollywood Screen Kiss,Comedy|Romance,$8842095.07
+449,Ocean's Thirteen,Crime|Thriller,$35748263.68
+450,Chain Reaction,Horror,$21098318.85
+451,"Eye of Vichy, The (Oeil de Vichy, L')",Documentary,$11909596.97
+452,Drona,Action|Adventure|Fantasy|Musical,$8630915.49
+453,Hamlet,Drama,$7815716.42
+454,Quod erat demonstrandum,Drama,$5850266.96
+455,"Adventures of Baron Munchausen, The",Adventure|Comedy|Fantasy,$35289406.17
+456,Night of the Running Man,Action|Crime|Thriller,$14322205.65
+457,"Land Girls, The",Drama|War,$1126588.95
+458,"Welcome Home, Roscoe Jenkins",Comedy,$47257507.26
+459,Au Hasard Balthazar,Crime|Drama,$8452474.97
+460,"Sea Wolves, The",Action|War,$26191287.24
+461,Always Outnumbered,Drama,$43290479.86
+462,Miss Météo,Comedy|Drama,$28376779.21
+463,Outside Satan (Hors Satan),Drama,$15795314.27
+464,"Year Ago in Winter, A (Im Winter ein Jahr)",Drama,$6767832.43
+465,Inn of Evil (Inochi bô ni furô),Crime|Drama,$46778667.54
+466,Petits Freres (Petits Frères),Drama,$45524270.31
+467,"Anderson Tapes, The",Crime|Drama|Thriller,$47918675.27
+468,"English Teacher, The",Comedy|Drama,$5662145.56
+469,"Mysteries of Pittsburgh, The",Adventure|Comedy|Drama,$45792481.73
+470,Lawn Dogs,Drama,$31426334.20
+471,"Harder They Come, The",Action|Crime|Drama,$10456783.51
+472,Bending the Rules,Action|Drama,$18717947.30
+473,"Trojan Women, The",Drama,$8918337.70
+474,"Wog Boy, The",Comedy,$44219492.56
+475,Shit Year,Drama,$32881389.85
+476,See Spot Run,Comedy,$25818551.60
+477,First Man Into Space,Drama|Horror|Sci-Fi,$45172020.87
+478,Generation Um...,Drama,$8002824.70
+479,My Flesh My Blood (Moja krew),Drama,$44597767.14
+480,Mars Needs Moms,Action|Adventure|Animation|Children|Comedy|Sci-Fi|IMAX,$5475769.46
+481,"Nines, The",Drama|Mystery,$43335999.23
+482,Brother (Hermano),Drama,$24224965.80
+483,"Greatest, The",Drama,$14145083.94
+484,Creator,Comedy|Drama|Romance,$30515317.74
+485,47 Ronin,Action|Adventure|Fantasy,$25017995.50
+486,Benji ,Documentary,$27934909.59
+487,Let's Make Money,Documentary,$3276279.52
+488,"Wildest Dream, The",Documentary,$42065321.38
+489,Finder's Fee,Drama|Thriller,$22407150.89
+490,Rush,Action|Drama,$11531479.16
+491,Last Vegas,Comedy|Drama|Romance,$19580911.90
+492,Purge (Puhdistus),Drama,$39240998.02
+493,Shopping,Action|Thriller,$6335664.58
+494,Bobby,Drama,$32504696.37
+495,Battle of the Bulge,Action|Drama|War,$48519559.67
+496,Australia,Adventure|Drama|War|Western,$28365851.59
+497,Pigs and Battleships (Hogs and Warships) (The Flesh Is Hot) (Buta to gunkan),Comedy|Crime|Drama,$41590066.62
+498,"New Country, The (Det nya landet)",Comedy|Drama,$49980363.85
+499,All About the Benjamins,Action|Comedy|Crime,$2013544.67
+500,Marooned in Iraq (Gomgashtei dar Aragh),Drama,$25585884.29
+501,Space Jam,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,$45561805.36
+502,Terri,Comedy,$1394735.34
+503,"Wedding Date, The",Comedy|Romance,$48456583.25
+504,Come Out and Play,Horror,$29712748.97
+505,Scissere,Drama,$9420163.55
+506,Survival Island (Three),Adventure|Drama|Horror,$44145481.71
+507,This American Journey,Documentary,$22678831.90
+508,"Foul King, The (Banchikwang)",Comedy,$11163511.20
+509,"Colony, The",Action|Horror|Sci-Fi|Thriller,$45259584.32
+510,Andrew Dice Clay: Indestructible,Comedy,$22872572.95
+511,"Distinguished Gentleman, The",Comedy,$20003780.86
+512,Journey to the Sun (Günese yolculuk),Drama,$36216431.54
+513,Operation Homecoming: Writing the Wartime Experience,Documentary,$2752008.49
+514,Bad Ronald,Drama|Horror|Thriller,$14423855.34
+515,"Express, The",Drama,$21182583.43
+516,Adventures of a Dentist,Comedy,$49643789.25
+517,Love Without Pity,Comedy|Romance,$14730859.09
+518,"Long Goodbye, The",Crime|Film-Noir,$31830318.73
+519,Beware of Mr. Baker,Documentary,$18421355.56
+520,[REC]³ 3 Génesis,Horror|Thriller,$33218316.82
+521,John Rabe,Drama|War,$42796878.13
+522,Violet Tendencies,Comedy|Drama|Romance,$39115746.65
+523,"Month by the Lake, A",Comedy|Drama|Romance,$41521836.42
+524,North West Mounted Police,Action|Adventure|Drama|Romance|Western,$31255094.79
+525,Eat Pray Love,Drama|Romance,$3286209.64
+526,Duck Soup,Comedy|Musical|War,$10705962.25
+527,Oasis,Drama|Romance,$46148008.68
+528,Crying Freeman,Action|Crime|Thriller,$26808804.76
+529,"Lawless Street, A (Marshal of Medicine Bend)",Western,$21733651.11
+530,Hood of Horror,Comedy|Drama|Horror,$10707705.19
+531,Diary of a Hitman,Crime|Drama|Thriller,$38859732.94
+532,Woman of Antwerp,Drama,$6974279.29
+533,Alive,Action|Drama|Horror|Sci-Fi|Thriller,$22991551.58
+534,"Edge of Heaven, The (Auf der anderen Seite)",Drama,$49974457.84
+535,Kabei: Our Mother (Kâbê),Drama,$45026432.00
+536,Hunting Elephants,Comedy|Crime,$40517144.00
+537,Gabrielle,Drama|Romance,$44949233.16
+538,"Never Play Clever Again (Gendarme et les gendarmettes, Le)",Comedy|Crime,$7930313.99
+539,Save the Last Dance 2,Drama|Romance,$45059798.37
+540,Alien³ (a.k.a. Alien 3),Action|Horror|Sci-Fi|Thriller,$10765045.48
+541,Undefeated,Documentary,$32297275.59
+542,Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train),Drama,$7860946.23
+543,Easy Virtue,Comedy|Romance,$5834935.34
+544,Body of Evidence,Drama|Thriller,$48963515.54
+545,American Crude,Comedy|Drama,$29242055.03
+546,Little Fugitive,Drama,$41635900.98
+547,Results,Comedy|Romance,$42598583.51
+548,Wives and Lovers,Comedy,$41469926.50
+549,"Dragon Missile, The (Fei long zhan)",Action,$25111671.42
+550,Blind Beast (Môjuu),Drama|Thriller,$4738973.46
+551,Cut,Comedy|Horror|Mystery|Thriller,$44940891.17
+552,Soap and Water,Comedy,$32335399.22
+553,Summer Holiday,Musical|Romance,$14870757.62
+554,"Thief Lord, The",Adventure|Children|Fantasy,$39470817.95
+555,Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen),Action|Adventure|Animation|Sci-Fi,$688212.72
+556,Stranded: I've Come from a Plane That Crashed on the Mountains,Documentary,$6656203.57
+557,Birth of the Living Dead,Documentary,$44822049.44
+558,Ugetsu (Ugetsu monogatari),Drama|Thriller,$28269919.23
+559,Images,Drama|Fantasy|Horror,$33609381.66
+560,Hellraiser,Horror,$26922962.82
+561,Waiting for Happiness (Heremakono),Drama,$35665231.97
+562,The Wrecking Crew,Documentary,$32310022.64
+563,Eyjafjallajökull,Comedy,$19516211.63
+564,Starlet,Drama,$28404300.77
+565,How the Grinch Stole Christmas (a.k.a. The Grinch),Children|Comedy|Fantasy,$37730887.53
+566,"Dead Times (Temps morts, Les)",Animation,$18609551.38
+567,"Boost, The",Drama,$45068174.18
+568,"Nada Gang, The (Nada)",Thriller,$46574214.22
+569,Forty Shades of Blue,Drama,$22440220.92
+570,Tenebre,Horror|Mystery|Thriller,$16059975.31
+571,In Cold Blood,Crime,$47912190.66
+572,Delicatessen,Comedy|Drama|Romance,$40343156.56
+573,Priest,Action|Horror|Sci-Fi|Thriller,$35508682.85
+574,Sittin' on a Backyard Fence,(no genres listed),$24516875.05
+575,Northwest,Action|Crime|Drama,$43637606.25
+576,Kinetta,Drama,$42426587.46
+577,Go for Sisters,Crime|Drama,$4726313.38
+578,House of Games,Crime|Film-Noir|Mystery|Thriller,$18416169.46
+579,Camp Nowhere,Adventure|Children|Comedy,$40868092.38
+580,Buffet froid,Comedy|Crime,$8788420.06
+581,Bubble,Crime|Drama|Mystery,$16821285.03
+582,Eternal Sunshine of the Spotless Mind,Drama|Romance|Sci-Fi,$14381511.07
+583,Guelwaar,Drama,$12718425.87
+584,DuckTales: The Movie - Treasure of the Lost Lamp,Adventure|Animation|Children|Comedy|Fantasy,$7753764.63
+585,Nothing About Robert (Rien sur Robert),Comedy|Drama,$24981771.42
+586,2010: The Year We Make Contact,Sci-Fi,$23716981.73
+587,Känd från TV,Comedy,$19512536.17
+588,Time Changer,Drama|Sci-Fi,$7723412.41
+589,Oedipus Rex (Edipo re),Drama,$46824324.86
+590,In Secret,Crime|Drama|Romance|Thriller,$13202090.48
+591,Place Vendôme,Crime|Drama,$35945969.07
+592,Invasion of Astro-Monster (Godzilla vs. Monster Zero) (Kaijû daisensô),Action|Adventure|Sci-Fi,$42563022.13
+593,Bukowski: Born into This,Documentary,$25296329.15
+594,Today You Die,Action|Crime,$11688267.23
+595,"Exploding Girl, The",Drama,$21053935.04
+596,Pajama Party,Comedy,$43193996.39
+597,"13 Frightened Girls! (Candy Web, The)",Adventure|Comedy|Thriller,$44245567.09
+598,Secret Ceremony,Drama|Thriller,$37709323.02
+599,Magnificent Obsession,Drama|Romance,$27416513.12
+600,"Dark, The",Horror|Mystery|Thriller,$30724243.77
+601,"Pelican, The (Le Pelican)",Drama,$27021618.93
+602,"Hills Run Red, The",Horror,$11759778.12
+603,Pain & Gain,Action|Comedy|Crime,$9326809.69
+604,Porgy and Bess,Drama|Musical|Romance,$9806741.96
+605,Splitting Heirs,Comedy,$15340657.30
+606,"Prince & Me, The",Comedy|Romance,$18260456.19
+607,Operator 13,Drama|Romance|War,$22713652.35
+608,Happy Times (Xingfu shiguang),Comedy|Drama,$40476177.51
+609,My Perestroika,Documentary,$43986786.28
+610,If I Stay,Drama,$14570744.04
+611,Envy,Comedy,$29843190.31
+612,For All Mankind,Documentary,$9170247.26
+613,Curious George,Adventure|Animation|Children|Comedy,$6038517.23
+614,Encore,Comedy|Drama,$13293808.51
+615,Belizaire the Cajun,Drama,$9403999.42
+616,At First Sight,Drama,$43642068.09
+617,"Union, The",Documentary,$1119150.13
+618,Samaritan Girl (Samaria),Drama,$44775281.61
+619,At the Devil's Door,Horror,$39312944.62
+620,"Story of Yonosuke, A (Yokomichi Yonosuke)",Comedy|Drama,$39493904.11
+621,Grave Halloween,Horror,$29136633.51
+622,Extract,Comedy,$14546804.92
+623,Midnight Express,Drama,$32748212.28
+624,Up the Sandbox,Comedy,$47658229.49
+625,Armed and Dangerous,Comedy|Crime,$10756018.57
+626,Somewhere Between,Documentary,$24825085.61
+627,Casey Jones,Action|Adventure|Fantasy,$8498073.50
+628,Sayonara,Drama,$40765566.88
+629,Blazing Saddles,Comedy|Western,$46201555.23
+630,"Manchurian Candidate, The",Crime|Thriller|War,$46384930.81
+631,Inequality for All,Documentary,$25022759.25
+632,"Circle, The",Drama,$11124154.21
+633,Rosie,Drama,$25318660.61
+634,"Getaway, The",Action|Crime|Drama|Thriller,$22103811.64
+635,Field of Dreams,Children|Drama|Fantasy,$5448955.86
+636,"Creature Wasn't Nice, The (a.k.a. Naked Space) (a.k.a. Spaceship)",Comedy|Horror|Musical|Sci-Fi,$619257.70
+637,Children Shouldn't Play with Dead Things,Horror,$36944927.88
+638,Never Say... Never! (Il ne faut jurer... de rien!),Comedy,$32599909.62
+639,"Navigator: A Mediaeval Odyssey, The",Adventure|Fantasy|Sci-Fi,$25919042.41
+640,Shot in the Heart,Crime|Drama,$18282139.52
+641,"Clonus Horror, The",Horror|Sci-Fi,$25274768.15
+642,Family Business,Comedy,$2339126.25
+643,Girl Model,Documentary,$27236809.30
+644,Earth vs. the Flying Saucers,Sci-Fi,$5614716.14
+645,"X from Outer Space, The (Uchû daikaijû Girara)",Horror|Sci-Fi,$32657245.25
+646,It Had to Be You,Comedy|Romance,$18292858.84
+647,Death to Smoochy,Comedy|Crime|Drama,$18230916.39
+648,Carmen Jones,Drama|Musical,$11597826.52
+649,"Blossoming of Maximo Oliveros, The (Ang pagdadalaga ni Maximo Oliveros)",Comedy|Drama,$5760741.03
+650,"Vampires, Les",Action|Adventure|Drama|Horror|Thriller,$35166037.71
+651,84 Charing Cross Road,Drama|Romance,$39740228.58
+652,Bonnie and Clyde,Crime|Drama,$8367263.58
+653,Extreme Days,Action|Adventure|Comedy|Drama,$28709081.33
+654,Toy Story of Terror,Animation|Children|Comedy,$21595144.02
+655,"Bostonians, The",Drama|Romance,$46343099.96
+656,Bad Eggs,Comedy|Thriller,$1290121.72
+657,Athena,Comedy|Musical|Romance,$29944633.45
+658,Lincoln,Drama|War,$18862067.65
+659,Diamond Girl,Drama|Romance,$10107535.11
+660,Teddy Bear (10 timer til Paradis),Drama|Romance,$49739812.09
+661,Cocoon: The Return,Comedy|Sci-Fi,$14865382.70
+662,"Lizard, The (Marmoulak)",Adventure|Comedy|Crime,$44285511.97
+663,Fido,Comedy|Horror|Thriller,$2548200.93
+664,"Great McGinty, The",Comedy,$8831071.90
+665,"H.M. Pulham, Esq.",Drama|Romance,$38196742.14
+666,Phase IV,Horror|Sci-Fi|Thriller,$43199979.70
+667,Stander,Action|Crime|Drama,$38871703.11
+668,When Ladies Meet,Comedy|Romance,$25664507.84
+669,Willy Wonka & the Chocolate Factory,Children|Comedy|Fantasy|Musical,$21281652.84
+670,Zanjeer,(no genres listed),$3977825.26
+671,Five,Drama|Horror|Sci-Fi,$32665273.40
+672,GoldenEye,Action|Adventure|Thriller,$19656326.47
+673,Boiler Room,Crime|Drama|Thriller,$7573059.90
+674,Insidious,Fantasy|Horror|Thriller,$36323290.92
+675,Winning Streak,Drama,$38045726.60
+676,"Cuckoo, The (Kukushka)",Comedy|Drama|War,$44503529.29
+677,It Felt Like Love,Drama,$1109122.38
+678,Broken Wings (Knafayim Shvurot),Drama,$1238057.58
+679,"Ring Finger, The (L'annulaire)",Drama,$28914957.10
+680,Without Love,Comedy|Romance,$37819486.11
+681,The Adventurers,Action|Adventure|Drama,$18879720.26
+682,Lulu on the Bridge,Drama|Mystery|Romance,$27961075.10
+683,October Country,Documentary,$30471755.58
+684,Zero Degrees of Separation,Documentary,$21663260.29
+685,Rescue Dawn,Action|Adventure|Drama|War,$44000528.80
+686,"Haunted Palace, The",Horror,$36423275.00
+687,"Phantom of the Opera, The",Drama|Horror,$41264395.22
+688,Ordinary Miracles,Drama,$23092739.15
+689,Emmanuel's Gift,Documentary,$20839508.80
+690,Gory Gory Hallelujah,Comedy|Fantasy|Horror,$2192976.44
+691,Mac & Devin Go to High School,Comedy,$38213323.68
+692,"Lathe of Heaven, The",Sci-Fi,$23903791.40
+693,Love and Other Drugs,Comedy|Drama|Romance,$18056659.25
+694,Next,Action|Sci-Fi|Thriller,$49412424.74
+695,"Devil and Daniel Webster, The (All That Money Can Buy)",Drama|Fantasy,$36220754.36
+696,This Property is Condemned,Drama|Romance,$38921549.20
+697,Clifford,Comedy,$12604333.68
+698,Sound City,Documentary,$24467159.51
+699,"Bridge, The (Brücke, Die)",Drama|War,$47106856.74
+700,"Cockleshell Heroes, The",Action|Drama|War,$10712115.34
+701,Good Dick,Comedy|Drama|Romance,$26033396.20
+702,My Mother (Ma mère),Drama,$38727224.44
+703,Buttcrack,Comedy|Horror,$40495194.42
+704,Expelled from Paradise,Animation,$10975385.71
+705,Helvetica,Documentary,$17513537.96
+706,Speed,Action|Romance|Thriller,$20650906.63
+707,Jungleground,Action|Sci-Fi|Thriller,$40205047.85
+708,"Burma Conspiracy, The (Largo Winch II)",Action|Adventure|Thriller,$522992.83
+709,Widows' Peak,Drama,$28210412.89
+710,Virus X,Horror|Sci-Fi,$44593064.20
+711,Rosetta,Drama,$39520255.09
+712,Malta G.C.,Documentary|War,$29842450.91
+713,"Rachel Papers, The",Drama|Romance,$39204292.35
+714,Everybody Wins,Drama|Mystery|Thriller,$36198862.77
+715,The Floating Castle,Comedy|Drama,$7736959.70
+716,Dark and Stormy Night,Comedy|Mystery,$29083054.07
+717,Underworld: Evolution,Action|Fantasy|Horror,$14244439.92
+718,It's a Free World...,Drama,$20394318.49
+719,"Herod's Law (Ley de Herodes, La)",Comedy|Crime|Mystery,$21401123.43
+720,"Good Man, A (Un buen hombre)",Crime|Drama,$40942232.05
+721,Malice N Wonderland,Drama|Musical,$11450174.37
+722,"Winslow Boy, The",Drama,$20440845.41
+723,"Last Seven, The",Horror|Mystery|Thriller,$39606333.33
+724,Total Recall,Action|Sci-Fi|Thriller,$28715959.36
+725,"Fighting Spirit, The",Documentary,$14507543.46
+726,If I Had a Million,Comedy|Drama,$31767380.10
+727,Bad Luck (Zezowate szczescie),Comedy,$6674158.80
+728,"Eagle Has Landed, The",Drama|War,$42996103.22
+729,Bridge of Dragons,Action|Romance|Sci-Fi|Thriller,$22299181.48
+730,Fall Time,Drama,$48548050.98
+731,Mr Hublot,Animation|Comedy,$35230244.40
+732,Get Thrashed: The Story of Thrash Metal,Documentary,$5113132.70
+733,"Big Day, The (We Met on the Vineyard)",Comedy,$22780950.54
+734,Eminem AKA ,Documentary,$19986563.17
+735,Under the Tuscan Sun,Comedy|Drama|Romance,$47115645.31
+736,Drop Dead Fred,Comedy|Fantasy,$2454964.11
+737,Dream Home (Wai dor lei ah yut ho),Horror,$14490383.78
+738,Mission London,Comedy,$34982566.83
+739,Prison,Crime|Drama|Horror|Thriller,$24201704.10
+740,"Scorpion King, The",Action|Adventure|Fantasy,$32963686.53
+741,Cosmonaut (Cosmonauta),Comedy,$36496255.70
+742,Because of Winn-Dixie,Children|Comedy|Drama,$27837453.95
+743,Since You Went Away,Drama|War,$8489423.77
+744,Casino,Crime|Drama,$17164531.22
+745,August Mordum's Underground,Horror,$21366879.04
+746,"Dark Tower, The",Drama|Thriller,$10210569.08
+747,In the Valley of Elah,Drama|Mystery,$26965593.68
+748,"Loves of Carmen, The",Drama,$6318454.06
+749,"Counterfeit Coin, The (Istoria mias kalpikis liras)",Comedy|Drama|Film-Noir|Romance,$21525047.42
+750,Spiritual Kung Fu (Quan jing),Action,$30004858.46
+751,Sex Ed,Comedy|Romance,$3681563.24
+752,Memoirs of an Invisible Man,Comedy|Romance|Sci-Fi|Thriller,$34089763.55
+753,Zookeeper,Comedy,$17215178.96
+754,"Hurricane Express, The",Adventure|Crime|Drama,$8159176.81
+755,Lawman,Western,$41319470.96
+756,The Last Diamond,Drama,$20661117.32
+757,"Hole, The",Crime|Drama|Horror|Mystery|Thriller,$25259878.42
+758,Romance on the High Seas,Comedy|Musical|Romance,$46532185.88
+759,Impromptu,Comedy|Romance,$49221743.41
+760,Garbo the Spy (Garbo: El espía),Documentary|War,$37779994.28
+761,Thor,Action|Adventure|Drama|Fantasy|IMAX,$47215643.21
+762,Police Academy 3: Back in Training,Comedy|Crime,$38683920.35
+763,"Dancing Masters, The",Comedy|Romance,$21574603.76
+764,Eden Log,Horror|Mystery|Sci-Fi|Thriller,$17108653.36
+765,Clone (Womb),Drama|Romance|Sci-Fi,$26320014.31
+766,Continental Divide,Comedy|Romance,$21846798.51
+767,"First Beautiful Thing, The (La prima cosa bella)",Comedy|Drama,$46677503.77
+768,"Claire's Knee (Genou de Claire, Le)",Comedy|Romance,$17519361.61
+769,How Hitler Lost the War,Documentary,$3044410.52
+770,Brainstorm (Bicho de Sete Cabeças),Drama,$32723892.41
+771,See Heaven,Documentary,$41361104.18
+772,"Boys Next Door, The",Crime|Drama,$17620975.85
+773,Diario de un skin,Documentary,$30154951.33
+774,Iron Will,Adventure,$2653231.12
+775,House Party: Tonight's the Night,(no genres listed),$29636581.86
+776,London Boulevard,Crime|Romance,$34161506.31
+777,Von Ryan's Express,Action|Adventure|Drama|War,$26863391.19
+778,Outrage,Crime|Drama|Thriller,$9735000.57
+779,House Hunting,Mystery|Thriller,$40765178.18
+780,Under the Yum Yum Tree,Comedy,$27745555.32
+781,Edge of Fear (Ella y el miedo),Horror,$36490954.96
+782,"Wildcat, The (Die Bergkatze)",Comedy|Drama|Romance,$43601744.71
+783,Or (a.k.a. My Treasure),Drama,$29091012.10
+784,Agnosia,Drama|Thriller,$41218911.65
+785,I'm Going Home (Je rentre à la maison),Comedy|Drama,$4469544.78
+786,Son in Law,Comedy|Drama|Romance,$2584204.66
+787,Cape Fear,Thriller,$18284234.19
+788,Jack Frost 2: Revenge of the Mutant Killer Snowman,Horror,$12220496.18
+789,Silk Stockings,Musical,$14664485.09
+790,Monica Z,Drama,$46896607.81
+791,Valhalla,Adventure|Animation|Children|Fantasy,$13556186.13
+792,"Two Days, One Night (Deux jours, une nuit)",Drama,$39410821.92
+793,"Red Desert (Deserto rosso, Il)",Drama,$38387890.12
+794,Come Have Coffee with Us,Comedy,$48362854.47
+795,"Garbage Pail Kids Movie, The",Adventure|Children|Comedy,$4480114.18
+796,Ethan Mao,Drama|Thriller,$11346289.97
+797,No and Me (No et moi),Drama,$11625775.04
+798,Scorched,Comedy|Crime,$18302895.88
+799,Tight Spot,Drama|Film-Noir|Thriller,$32020930.30
+800,Pursuit of Happiness,Comedy|Romance,$4903368.60
+801,"Doctor Takes a Wife, The",Comedy,$7435982.29
+802,Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard),Animation|Children|Fantasy,$879787.43
+803,"Favor, The",Comedy|Romance,$18048721.21
+804,Moonraker,Action|Adventure|Sci-Fi|Thriller,$30701006.42
+805,"Swindle, The (Bidone, Il)",Drama,$6997736.03
+806,"Gods Must Be Crazy III, The (a.k.a. Crazy Safari) (Fei zhou he shang)",Comedy|Fantasy,$19076011.54
+807,Beauty and the Beast (Beauty and the Beasts: A Dark Tale),Fantasy,$42602063.85
+808,Shirley Valentine,Comedy|Romance,$28570764.74
+809,Impy's Island,Animation|Children|Fantasy,$26174543.97
+810,"Porn Theater (Chatte à deux têtes, La)",Drama,$30931796.63
+811,Welcome to Australia,Documentary,$38744892.58
+812,"When You Comin' Back, Red Ryder?",Drama,$37247059.00
+813,Life's a Breeze,Comedy|Drama,$32428936.22
+814,God's Gun,Western,$5520006.36
+815,Apartment Zero,Drama|Thriller,$20836801.12
+816,Pandora and the Flying Dutchman,Drama,$2968846.48
+817,Brothers in Trouble,Drama,$23941949.33
+818,"Weather Man, The",Comedy|Drama,$17570610.13
+819,"House by the Cemetery, The (Quella villa accanto al cimitero)",Horror,$12367860.46
+820,Kalifornia,Drama|Thriller,$33377416.57
+821,Chasing Liberty,Comedy|Romance,$41074256.75
+822,"Devil Bat, The",Crime|Horror|Mystery|Sci-Fi,$43247564.59
+823,"Eleventh Hour, The",Action|Thriller,$24835934.68
+824,Naked Weapon (Chek law dak gung),Action|Drama|Romance|Thriller,$4162929.21
+825,Here Comes Mr. Jordan,Comedy|Fantasy|Romance,$33442968.93
+826,Love Hina Christmas Special: Silent Eve (Rabu Hina kurisumasu supesharu: Sairento ivu),Animation|Comedy|Romance,$16509049.99
+827,Stick It,Comedy,$13115261.80
+828,Dirty Dancing,Drama|Musical|Romance,$42982539.45
+829,"Other Son, The (Fils de l'autre, Le)",Drama,$22505611.39
+830,Things Change,Comedy,$38746703.66
+831,Romy and Michele's High School Reunion,Comedy,$7378791.73
+832,Basket Case,Comedy|Horror,$13213634.23
+833,Loaded,Action|Crime|Drama|Thriller,$34654594.35
+834,Scary Movie 2,Comedy,$22589423.93
+835,Kinyarwanda,Drama|Romance,$42561067.53
+836,"Night of the Generals, The",Crime|Drama|Mystery|Thriller|War,$15775757.60
+837,Lincoln,Drama|War,$34959099.25
+838,Harriet Craig,Drama,$14889455.30
+839,"Hours, The",Drama|Romance,$543712.96
+840,"Crawling Eye, The (a.k.a. Trollenberg Terror, The)",Horror|Sci-Fi,$9421219.25
+841,Father of the Bride,Comedy,$6230167.06
+842,C.O.G.,Comedy|Drama,$27023092.14
+843,TerrorVision,Comedy|Horror|Sci-Fi,$2642799.39
+844,"Gathering of Old Men, A (Murder on the Bayou)",Drama,$16280763.82
+845,The Sex and Violence Family Hour,(no genres listed),$37865834.48
+846,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,Adventure|Animation|Fantasy|Musical|Sci-Fi,$9175643.28
+847,Alaska: Silence & Solitude,Documentary,$26537719.92
+848,Smiling Fish and Goat on Fire,Comedy|Romance,$25114091.70
+849,Will Penny,Romance|Western,$4350664.49
+850,"Long Day Closes, The",Drama,$12184016.67
+851,"Screaming Man, A (Un homme qui crie)",Drama,$11740992.79
+852,Bad News Bears,Children|Comedy,$28449386.77
+853,Crackerjack,Comedy,$2849731.02
+854,Dead Man Down,Action|Crime|Drama|Romance|Thriller,$15276483.16
+855,Dealer,Drama,$27540094.94
+856,"Confucian Confusion, A (Du li shi dai)",Comedy,$46164629.97
+857,Galaxy Express 999 (Ginga tetsudô Three-Nine),Adventure|Animation|Fantasy|Sci-Fi,$2267167.37
+858,Evil Roy Slade,Comedy|Western,$27845013.91
+859,Chicago Overcoat,Action|Drama,$39108286.94
+860,"Brothers Lionheart, The (Bröderna Lejonhjärta)",Adventure|Children|Fantasy,$5028025.14
+861,Vampire Girl vs. Frankenstein Girl (Kyûketsu Shôjo tai Shôjo Furanken),Action|Comedy|Horror|Romance,$32228409.40
+862,Stereo,Sci-Fi,$49036844.53
+863,Max,Drama,$6236749.74
+864,Pizzas,Drama,$15487398.23
+865,Levottomat 3,Romance,$848835.68
+866,Birdy,Drama|War,$31661954.82
+867,Dream Wife,Comedy|Romance,$33314182.13
+868,Ragamuffin,Drama,$12139749.91
+869,Journey to the Far Side of the Sun (a.k.a. Doppelgänger),Fantasy|Mystery|Sci-Fi|Thriller,$10937360.49
+870,Seven (a.k.a. Se7en),Mystery|Thriller,$47334889.92
+871,Destination Tokyo,Adventure|War,$42264837.31
+872,Empty Nest (El nido vacío),Comedy|Drama,$5498925.04
+873,Clash of the Wolves,Adventure|Romance|Western,$16491236.72
+874,St. George Shoots the Dragon (Sveti Georgije ubiva azdahu),Drama|War,$12372063.96
+875,"Genova (Summer in Genoa, A)",Drama|Romance,$9397157.54
+876,Last of the Dogmen,Adventure|Western,$38733678.27
+877,Providence,Drama,$40900891.29
+878,Prince of Darkness,Fantasy|Horror|Sci-Fi|Thriller,$21607057.32
+879,"Passion of the Christ, The",Drama,$11477548.51
+880,Women in Trouble,Comedy,$16117795.40
+881,"Specialist, The",Action|Drama|Thriller,$5664444.27
+882,5 Days of War,Action|Drama|War,$30332382.97
+883,Fear of a Black Hat,Comedy,$34964597.52
+884,Beyond the Door II (Schock) (Shock) (Suspense),Horror,$15099849.77
+885,Table 7,Comedy|Drama,$4804926.39
+886,Charlie St. Cloud,Drama|Fantasy|Romance,$16711208.52
+887,Where Eagles Dare,Action|Adventure|War,$40873521.83
+888,"Hard Way, The",Drama,$13486442.53
+889,Passion in the Desert,Adventure|Drama,$10192701.77
+890,Emerald Cowboy,Documentary|Drama,$29762536.15
+891,Foxes,Drama,$986511.41
+892,Greetings,Comedy,$16870148.44
+893,Fine-Tune,Comedy|Drama,$33994427.07
+894,Calamari Union,Comedy,$23433943.24
+895,Silent Souls (Ovsyanki),Drama,$38586323.25
+896,23 (23 - Nichts ist so wie es scheint),Drama|Thriller,$10325425.64
+897,Rocaterrania,Documentary|Fantasy,$12428145.91
+898,Walled In,Horror|Thriller,$36866813.14
+899,+1,Sci-Fi|Thriller,$48610601.62
+900,Asterix in Britain (Astérix chez les Bretons),Adventure|Animation|Children|Comedy,$18277627.59
+901,"Inevitable Defeat of Mister & Pete, The",Drama,$28203380.76
+902,Dorian Blues,Comedy,$19192143.22
+903,Tyler Perry's Diary of a Mad Black Woman,Comedy|Drama|Romance,$25172170.14
+904,Late Spring (Banshun),Drama,$5625442.43
+905,Cycling with Moliere (Alceste à bicyclette),Comedy|Drama,$23416803.98
+906,Che: Part Two,Drama|War,$14206375.41
+907,Snake-Crane Secret (She hao dan xin zhen jiu zhou),Action|Drama,$8935614.70
+908,Wild Hearts Can't Be Broken,Drama|Romance,$35027212.22
+909,I Was A Communist for the FBI,Drama|Film-Noir|Thriller,$12742226.38
+910,Playing,Documentary,$14523054.63
+911,Obsession,Mystery|Thriller,$16646654.06
+912,Sophia de Mello Breyner Andresen,Documentary,$48027143.79
+913,Burglar,Comedy|Crime,$4619679.92
+914,Two in the Wave,Documentary,$27403589.11
+915,House of Games,Crime|Film-Noir|Mystery|Thriller,$25275504.58
+916,Night of Dark Shadows,Drama|Horror|Mystery|Romance|Thriller,$19243821.43
+917,"Gumball Rally, The",Adventure|Comedy,$11359725.29
+918,Seduced and Abandoned (Sedotta e abbandonata),Comedy|Drama,$12867382.46
+919,Shakes the Clown,Comedy,$6473073.04
+920,Carnal Knowledge,Comedy|Drama,$36039122.94
+921,Period of Adjustment,Comedy|Drama,$43194433.79
+922,Messenger of Death,Thriller,$35566713.34
+923,Aladin,Comedy|Fantasy|Musical|Romance,$13707418.11
+924,Fool's Gold,Action|Adventure|Comedy|Romance,$22163105.11
+925,Show People,Comedy|Romance,$2147308.08
+926,Pulling John,Documentary,$42495334.85
+927,Privilege,Drama|Musical,$5448345.11
+928,Sanctum,Action|Adventure|Drama|Thriller|IMAX,$31370366.21
+929,Inside Daisy Clover,Drama,$40834193.41
+930,Beneath the Rooftops of Paris (Sous les toits de Paris),Drama,$40476212.43
+931,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",Adventure|Comedy,$14035950.94
+932,"Angus, Thongs and Perfect Snogging",Comedy|Romance,$33525442.64
+933,Caught,Drama|Thriller,$5337481.59
+934,Boca,Action|Crime|Drama,$31537922.94
+935,One Good Cop,Action|Crime|Drama,$5474140.64
+936,Carve Her Name with Pride,Drama|War,$19072431.79
+937,Tyler Perry's Why Did I Get Married Too?,Comedy,$12888548.84
+938,James Dean Remembered,Documentary,$32664856.63
+939,Courage Mountain,Adventure|Children|Drama,$43760063.06
+940,"Shadow Riders, The",Romance|Western,$17623312.01
+941,Star Trek IV: The Voyage Home,Adventure|Comedy|Sci-Fi,$21773517.64
+942,Black Gold,Documentary,$20509620.25
+943,Abouna,Drama,$23133038.45
+944,"Stranger in Town, A",Drama|Romance,$5105204.98
+945,Union Pacific,Drama|Western,$3843987.76
+946,You Are God (Jestes Bogiem),Drama,$40294898.39
+947,Hellraiser: Hellworld,Horror,$25230615.76
+948,Castaway on the Moon (Kimssi pyoryugi),Comedy|Drama|Romance,$22979436.15
+949,35 and Ticking,Romance,$22281799.67
+950,Advance to the Rear,Comedy|War|Western,$30901941.61
+951,alaskaLand,Drama,$16777048.82
+952,Kings & Queen (Rois et reine),Comedy|Drama,$6294592.03
+953,"Glenn, the Flying Robot",Sci-Fi,$26180913.64
+954,Prozac Nation,Drama,$13413568.60
+955,"Wash, The",Comedy,$23821156.95
+956,Going to Kansas City,Drama|Romance|Thriller,$11327531.23
+957,"Hills Have Eyes II, The",Horror|Thriller,$7465693.20
+958,Monkey Business,Comedy|Sci-Fi,$5042282.72
+959,Focus,Comedy|Crime|Drama|Romance,$5028075.27
+960,Shamus,Crime|Mystery,$7888126.39
+961,"Little Brother, Big Trouble: A Christmas Adventure (Niko 2: Lentäjäveljekset)",Adventure|Animation|Children|Comedy,$24286002.28
+962,Nutty Professor II: The Klumps,Comedy,$30302225.77
+963,"Man with No Shadow, The (Homme sans ombre, L')",Animation|Drama,$1938794.25
+964,Tin Cup,Comedy|Drama|Romance,$4754028.44
+965,Comrades,Drama,$5092919.76
+966,Thrive,Documentary,$11460518.08
+967,Executive Suite,Drama,$21376856.63
+968,Vivere,Drama|Romance,$15642912.81
+969,National Lampoon's Senior Trip,Comedy,$32151459.64
+970,Shirin in Love,Comedy|Romance,$1876089.34
+971,Soccer Days,Comedy,$17410787.04
+972,Aks,Thriller,$28417836.04
+973,Look Both Ways,Drama|Romance,$27915064.11
+974,Smokin' Aces 2: Assassins' Ball,Action,$3709011.55
+975,Innocent Blood,Comedy|Horror,$35364194.22
+976,Inserts,Comedy|Drama,$23238420.78
+977,Elephants Dream,Animation|Fantasy|Sci-Fi,$48912567.95
+978,"Amati Girls, The",Drama,$17871481.32
+979,Higher Ground,Drama,$14629723.71
+980,Captain Midnight,Action|Adventure|Thriller,$10939412.86
+981,Calling Dr. Gillespie,Crime|Drama|Thriller,$39219901.91
+982,Beer Wars,Documentary,$28813888.80
+983,Unlawful Entry,Crime|Thriller,$40412280.99
+984,Revolt in the Fifth Dimension,Adventure|Animation|Children,$31703314.45
+985,Wooden Crosses (Les croix de bois),Drama|War,$45047408.54
+986,"War on Democracy, The",Documentary,$33010055.23
+987,Boudu Saved From Drowning (Boudu sauvé des eaux),Comedy,$4364281.60
+988,Critters 2: The Main Course,Comedy|Horror|Sci-Fi,$4497850.44
+989,Reform School Girls,Action|Drama,$7719786.09
+990,Poison,Drama,$37133324.53
+991,How to Rob a Bank,Comedy|Crime|Mystery|Thriller,$37243545.82
+992,Without Warning,Sci-Fi,$8049724.49
+993,Sylvia and the Ghost,Comedy|Fantasy|Romance,$4408131.82
+994,She Cried No (Freshman Fall),Crime|Drama,$48704705.87
+995,Solar Crisis,Sci-Fi|Thriller,$7266785.91
+996,Global Metal,Documentary,$25294166.79
+997,Recipe for Love,Romance,$3027015.20
+998,Money Matters ,Drama,$24023844.53
+999,It's a Free World...,Drama,$19426532.76
+1000,Gotti,Crime|Drama,$17445048.70
