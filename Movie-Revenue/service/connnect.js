@@ -2,9 +2,7 @@ const mongoose = require("mongoose");
 
 async function connect() {
   mongoose.set("strictQuery", false);
-  await mongoose.connect("localhost:27017/movieDB", () => {
-    console.log("connect to db");
-  });
+  await mongoose.connect("mongodb://localhost:27017/movie-revenue");
 }
 
 module.exports = connect;
