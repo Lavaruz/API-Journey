@@ -3,11 +3,11 @@ const app = express();
 
 const databaseConnect = require("./services/mongo");
 
+const indexRouter = require("./src/routes/index");
+
 app.use(express.json());
 
-app.get("/", (req, res) => {
-  res.json({ status: "OK" });
-});
+app.use("/", indexRouter);
 
 async function startServer() {
   await databaseConnect();
