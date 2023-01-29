@@ -10,7 +10,7 @@ async function loadMovie() {
     )
       .pipe(parse({ delimiter: ",", columns: true }))
       .on("data", async (row) => {
-        Object.assign;
+        row.id = +row.id;
         await addNewMovies(row);
       })
       .on("end", () => {
@@ -30,7 +30,7 @@ async function addNewMovies(data) {
 }
 
 async function getAllMovies() {
-  return await Movie.find({}, "-_id -__v", { sort: { _id: 1 }, limit: 10 });
+  return await Movie.find({}, "-_id -__v", { sort: { id: 1 }, limit: 5 });
 }
 
 module.exports = {
