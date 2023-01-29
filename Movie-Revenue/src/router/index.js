@@ -1,7 +1,8 @@
 const indexRouter = require("express").Router();
+const Movie = require("../model/movie.model");
 
-indexRouter.get("/", (req, res) => {
-  res.json({ status: "OK" });
+indexRouter.get("/", async (req, res) => {
+  res.json(await Movie.getAllMovies());
 });
 
 module.exports = indexRouter;
