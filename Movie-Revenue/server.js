@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const connect = require("./service/connnect");
-const { loadMovie } = require("./src/model/movie.model");
+const { loadMovie } = require("./src/controllers/index");
 
 const indexRouter = require("./src/router/index");
 

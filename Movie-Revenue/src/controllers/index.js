@@ -1,4 +1,4 @@
-const Movie = require("./movie.mongo");
+const Movie = require("../model/movie.mongo");
 const fs = require("fs");
 const path = require("path");
 const { parse } = require("csv-parse");
@@ -29,8 +29,29 @@ async function addNewMovies(data) {
   );
 }
 
-async function getAllMovies() {
-  return await Movie.find({}, "-_id -__v", { sort: { id: 1 }, limit: 5 });
+async function getAllMovies(req, res, next) {
+  let totalItems;
+  let page = req.query.page || 1;
+  let perPage = req.query.perPage || 5;
+  await Movie.countDocuments()
+    .then(async (count) => {
+      totalItems = count;
+      return await Movie.find({}, "-_id -__v")
+        .skip((page - 1) * perPage)
+        .limit(perPage)
+        .sort("id");
+    })
+    .then((result) => {
+      res.json({
+        data: result,
+        perPage,
+        page,
+        totalItems,
+      });
+    })
+    .catch((err) => {
+      next(err);
+    });
 }
 
 module.exports = {
