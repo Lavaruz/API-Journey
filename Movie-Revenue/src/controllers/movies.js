@@ -54,8 +54,35 @@ async function getAllMovies(req, res, next) {
     });
 }
 
+async function postNewMovies(req, res, next) {
+  let totalItems;
+  Movie.countDocuments()
+    .then((count) => {
+      totalItems = count;
+      let newData = Object.assign(req.body, {
+        id: totalItems + 1,
+      });
+      return Movie.findOneAndUpdate(
+        {
+          name: req.body.name,
+        },
+        newData,
+        {
+          upsert: true,
+        }
+      );
+    })
+    .then((result) => {
+      res.json({
+        status: "Updated",
+      });
+    })
+    .catch((err) => next(err));
+}
+
 module.exports = {
   addNewMovies,
   loadMovie,
   getAllMovies,
+  postNewMovies,
 };

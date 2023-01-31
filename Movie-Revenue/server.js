@@ -1,15 +1,15 @@
 const express = require("express");
 const app = express();
 const connect = require("./service/connnect");
-const { loadMovie } = require("./src/controllers/index");
+const { loadMovie } = require("./src/controllers/movies");
 
-const indexRouter = require("./src/router/index");
+const moviesRouter = require("./src/router/movies");
 
 const apiV1 = "/api/v1";
 
 app.use(express.json());
 
-app.use(`${apiV1}/movies`, indexRouter);
+app.use(`${apiV1}`, moviesRouter);
 
 async function startServer() {
   await connect();
