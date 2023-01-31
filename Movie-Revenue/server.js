@@ -5,9 +5,11 @@ const { loadMovie } = require("./src/controllers/index");
 
 const indexRouter = require("./src/router/index");
 
+const apiV1 = "/api/v1";
+
 app.use(express.json());
 
-app.use("/", indexRouter);
+app.use(`${apiV1}/movies`, indexRouter);
 
 async function startServer() {
   await connect();
