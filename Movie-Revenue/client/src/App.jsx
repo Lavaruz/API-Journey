@@ -15,6 +15,12 @@ function App() {
         data: revenue.map((data, index) => {
           return +data.revenue.replace("$", "");
         }),
+        backgroundColor: [
+          "rgba(75,192,192,1)",
+          "#50AF95",
+          "#f3ba2f",
+          "#2a71d0",
+        ],
       },
     ],
   };
@@ -25,7 +31,13 @@ function App() {
     setUserData(barConfig);
   }, [revenue]);
 
-  return <div className="App">{<BarChart chartData={userData} />}</div>;
+  return (
+    <div className="App">
+      <div className="barChart">
+        <BarChart chartData={userData} />
+      </div>
+    </div>
+  );
 }
 
 export default App;

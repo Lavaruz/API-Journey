@@ -1,5 +1,15 @@
+body {
+  width: 100wh;
+  height: 100vh;
+}
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.barChart {
+  width: 70%;
 }
 
 .App-logo {
