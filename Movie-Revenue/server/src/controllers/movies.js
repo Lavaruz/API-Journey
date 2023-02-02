@@ -38,8 +38,7 @@ async function getAllMovies(req, res, next) {
       totalItems = count;
       return await Movie.find({}, "-_id -__v")
         .skip((page - 1) * limit)
-        .limit(limit)
-        .sort("id");
+        .limit(limit);
     })
     .then((result) => {
       res.json({
