@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const cookieParser = require("cookie-parser");
 
 const { databaseConnect } = require("./services/connect");
 
@@ -7,6 +8,7 @@ const { databaseConnect } = require("./services/connect");
 const indexRouter = require("./src/routes/index");
 
 app.use(express.json());
+app.use(cookieParser());
 
 app.use("/", indexRouter);
 
