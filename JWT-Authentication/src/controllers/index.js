@@ -1,25 +1,43 @@
 const User = require("../models/user");
 const bcrypt = require("bcrypt");
 const { createToken } = require("../../services/jwt");
+const validator = require("validator");
 
 async function registerUser(req, res) {
-  const { username, password } = req.body;
-  bcrypt.hash(password, 10).then(async (hash) => {
-    try {
-      await User.find({
-        username: username,
-        password: hash,
-      });
-      res.json("REGISTER SUCCESS");
-    } catch (err) {
-      res.status(400).json({ error: err });
-    }
+  const { email, password } = req.body;
+
+  const emailValid = validator.isEmail(email);
+  const passwordValid = validator.isStrongPassword(password, {
+    minSymbols: 0,
   });
+  if (emailValid && passwordValid) {
+    bcrypt.hash(password, 10).then(async (hash) => {
+      try {
+        await User.findOneAndUpdate(
+          {
+            email: email,
+          },
+          {
+            email: email,
+            password: hash,
+          },
+          {
+            upsert: true,
+          }
+        );
+        res.json("REGISTER SUCCESS");
+      } catch (err) {
+        res.status(400).json({ error: err });
+      }
+    });
+  } else {
+    res.json({ error: "email or password invalid" });
+  }
 }
 
 async function loginUser(req, res) {
-  const { username, password } = req.body;
-  const user = await User.findOne({ username: username });
+  const { email, password } = req.body;
+  const user = await User.findOne({ email: email });
 
   if (!user) return res.json({ error: "user not found" });
 
@@ -29,7 +47,7 @@ async function loginUser(req, res) {
     } else {
       const accessToken = createToken(user);
       res.cookie("access-token", accessToken, {
-        maxAge: 30000,
+        maxAge: 300000,
         httpOnly: true,
       });
       return res.json("SUCCESS TO LOGIN");

@@ -7,7 +7,7 @@ indexRouter.post("/register", indexController.registerUser);
 indexRouter.post("/login", indexController.loginUser);
 
 indexRouter.get("/profile", verifyToken, (req, res) => {
-  res.json("PROFILE");
+  res.json({ sessionData: req.user.email, status: "success" });
 });
 
 module.exports = indexRouter;
