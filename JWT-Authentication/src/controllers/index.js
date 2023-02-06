@@ -1,7 +1,8 @@
 const User = require("../models/user");
 const bcrypt = require("bcrypt");
-const { createToken } = require("../../services/jwt");
+const { generateAccessToken } = require("../../services/jwt");
 const validator = require("validator");
+const jwt = require("jsonwebtoken");
 
 async function registerUser(req, res) {
   const { email, password } = req.body;
@@ -45,9 +46,13 @@ async function loginUser(req, res) {
     if (!match) {
       return res.json({ error: "wrong user and password combination!" });
     } else {
-      const accessToken = createToken(user);
-      res.cookie("access-token", accessToken, {
-        maxAge: 300000,
+      const accessToken = generateAccessToken(user);
+      const refreshToken = jwt.sign(
+        { id: user._id, email: user.email },
+        process.env.REFRESH_TOKEN_SECRET
+      );
+      res.cookie("access-token", accessToken);
+      res.cookie("refresh-token", refreshToken, {
         httpOnly: true,
       });
       return res.json("SUCCESS TO LOGIN");
@@ -55,7 +60,20 @@ async function loginUser(req, res) {
   });
 }
 
+async function refreshToken(req, res) {
+  const refreshToken = req.cookies["refresh-token"];
+  if (refreshToken == null) return res.sendStatus(401);
+
+  jwt.verify(refreshToken, process.env.REFRESH_TOKEN_SECRET, (err, user) => {
+    if (err) return res.sendStatus(403);
+    const accessToken = generateAccessToken(user);
+    res.cookie("access-token", accessToken);
+    res.json("TOKEN REFRESHED");
+  });
+}
+
 module.exports = {
   registerUser,
   loginUser,
+  refreshToken,
 };

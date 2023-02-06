@@ -1,8 +1,14 @@
 const { sign, verify } = require("jsonwebtoken");
+require("dotenv").config();
 
-function createToken(user) {
-  const accessToken = sign({ id: user._id, email: user.email }, "SECRETJWT");
-  return accessToken;
+function generateAccessToken(user) {
+  return sign(
+    { id: user._id, email: user.email },
+    process.env.ACCESS_TOKEN_SECRET,
+    {
+      expiresIn: "15s",
+    }
+  );
 }
 
 function verifyToken(req, res, next) {
@@ -12,7 +18,7 @@ function verifyToken(req, res, next) {
   }
 
   try {
-    const verifyToken = verify(accessToken, "SECRETJWT");
+    const verifyToken = verify(accessToken, process.env.ACCESS_TOKEN_SECRET);
     req.user = verifyToken;
     if (verifyToken) {
       req.authenticated = true;
@@ -23,4 +29,4 @@ function verifyToken(req, res, next) {
   }
 }
 
-module.exports = { createToken, verifyToken };
+module.exports = { generateAccessToken, verifyToken };
