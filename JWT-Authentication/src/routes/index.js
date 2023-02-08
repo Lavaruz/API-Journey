@@ -12,9 +12,10 @@ indexRouter.get("/profile", verifyToken, (req, res) => {
   res.json({ sessionData: req.user.email, status: "success" });
 });
 
-indexRouter.get("/logout", verifyToken, (req, res) => {
+indexRouter.delete("/logout", verifyToken, (req, res) => {
   res.clearCookie("access-token");
-  res.json("LOGGING OUT");
+  res.clearCookie("refresh-token");
+  res.sendStatus(204);
 });
 
 module.exports = indexRouter;
