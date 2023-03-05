@@ -1,8 +1,8 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const bookSchema = mongoose.Schema({
   id: String,
   name: String,
 });
 
-module.exports = mongoose.model("Book", bookSchema);
+export default mongoose.model("Book", bookSchema);

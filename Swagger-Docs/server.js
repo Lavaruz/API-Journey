@@ -1,16 +1,15 @@
-const express = require("express");
-const morgan = require("morgan");
-const cors = require("cors");
+import express from "express";
+import morgan from "morgan";
+import cors from "cors";
+
+import connectDb from "./services/mongo.js";
+import booksRouter from "./routes/books.js";
 
 const app = express();
 app.use(morgan("dev"));
 app.use(cors());
 
-const { connectDb } = require("./services/mongo");
-
-app.get("/", (req, res) => {
-  res.json("OK");
-});
+app.use("/", booksRouter);
 
 async function startServer() {
   await connectDb();
