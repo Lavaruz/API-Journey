@@ -79,20 +79,49 @@ booksRouter.get("/", async (req, res) => {
 
 booksRouter.get("/:id", async (req, res) => {
   const { id } = req.params;
-  res.json(
-    await Books.find({
-      id: id,
-    })
-  );
+  const book = await Books.find({
+    id: id,
+  });
+  if (book.length == 0) {
+    return res.sendStatus(404);
+  }
+  res.json(book);
 });
 
+/**
+ * @swagger
+ * /books:
+ *  post:
+ *    summary: Create new book
+ *    tags: [Books]
+ *    requestBody:
+ *      required: true
+ *      content:
+ *        application/json:
+ *          schema:
+ *            $ref: '#/components/schemas/Book'
+ *    responses:
+ *      200:
+ *        description: sucess created new book
+ *        content:
+ *          application/json:
+ *            schema:
+ *              $ref: '#/components/schemas/Book'
+ *      500:
+ *        description: Some server error
+ */
+
 booksRouter.post("/", async (req, res) => {
-  await Books.create({
-    id: nanoid(8),
-    ...req.body,
-  }).then((result) => {
-    res.json(result);
-  });
+  try {
+    await Books.create({
+      id: nanoid(8),
+      ...req.body,
+    }).then((result) => {
+      res.json(result);
+    });
+  } catch (error) {
+    res.sendStatus(500);
+  }
 });
 
 booksRouter.put("/:id", async (req, res) => {
