@@ -124,6 +124,38 @@ booksRouter.post("/", async (req, res) => {
   }
 });
 
+/**
+ * @swagger
+ * /books/{id}:
+ *  put:
+ *    summary: update book by id
+ *    tags: [Books]
+ *    parameters:
+ *      - in: path
+ *        name: id
+ *        schema:
+ *          id: string
+ *        required: true
+ *        description: the book id
+ *    requestBody:
+ *      required: true
+ *      content:
+ *        json/application:
+ *          schema:
+ *            $ref: "#/components/schemas/Book"
+ *    responses:
+ *      200:
+ *        description: the book was updated
+ *        content:
+ *          json/application:
+ *            schema:
+ *              $ref: "#/components/schemas/Book"
+ *      404:
+ *        description: the book not found
+ *      500:
+ *        description: server error
+ */
+
 booksRouter.put("/:id", async (req, res) => {
   const { id } = req.params;
   await Books.findOneAndUpdate(
