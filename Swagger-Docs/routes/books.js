@@ -172,6 +172,26 @@ booksRouter.put("/:id", async (req, res) => {
   });
 });
 
+/**
+ * @swagger
+ * /books/{id}:
+ *  delete:
+ *    summary: delete the book by id
+ *    tags: [Books]
+ *    parameters:
+ *      - in: path
+ *        name: id
+ *        required: true
+ *        schema:
+ *          id: string
+ *        description: book id
+ *    responses:
+ *      200:
+ *        description: the book was deleted
+ *      404:
+ *        description: not found
+ */
+
 booksRouter.delete("/:id", async (req, res) => {
   const { id } = req.params;
   await Books.findOneAndDelete({
